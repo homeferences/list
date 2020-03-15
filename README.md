@@ -2,6 +2,8 @@
 
 _Homeferences_ are Conferences which happen virtually, so you can attend from your home.
 
+**Pull-requests are welcome!**
+
 ## List of Conferences that can be attended online
 
 | Date               | Name and URL                                                                                                              | Topic, Keywords                                                                                                                                                                                                                                                            |
