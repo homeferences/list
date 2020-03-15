@@ -1,0 +1,36 @@
+{
+  "name": "@homeferences/list",
+  "version": "0.0.0-development",
+  "description": "List of Homeferences",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/homeferences/list.git"
+  },
+  "keywords": [
+    "homeference",
+    "conference",
+    "virtual",
+    "remote"
+  ],
+  "author": "Homeferences Contributors | https://github.com/orgs/homeferences/people",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/homeferences/list/issues"
+  },
+  "homepage": "https://github.com/homeferences/list#readme",
+  "devDependencies": {
+    "husky": "^4.2.3",
+    "lint-staged": "^10.0.8",
+    "prettier": "^1.18.2"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{md,json,yaml,yml,js}": [
+      "prettier --write"
+    ]
+  }
+}
