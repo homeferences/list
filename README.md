@@ -56,6 +56,7 @@ _Homeferences_ are Conferences which happen virtually, so you can attend from yo
 
 ### Other lists
 
+- https://github.com/soroushchehresa/awesome-coronavirus
 - https://github.com/adamdriscoll/awesome-covid19-resources#online-conferences
 - https://www.notion.so/Homeferences-fe7ec0d42246459ab689914b7c9de8df
 - https://docs.google.com/spreadsheets/d/1IKXAcDoYnWNpuFaDYkn_aplDZ5fRI0bJNWah0rGFO5E/edit#gid=0
