@@ -1,0 +1,48 @@
+name: Publish
+
+on:
+  push:
+    branches:
+      - saga
+
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+      - uses: actions/setup-node@v1
+        with:
+          node-version: "12.x"
+      - name: Keep npm cache around to speed up installs
+        uses: actions/cache@v1
+        with:
+          path: ~/.npm
+          key: ${{ runner.OS }}-build-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.OS }}-build-${{ env.cache-name }}-
+            ${{ runner.OS }}-build-
+            ${{ runner.OS }}-
+      - name: Authenticate with NPM
+        run: |
+          echo "//npm.pkg.github.com/:_authToken=$GITHUB_TOKEN" > ~/.npmrc
+      - name: Install dependencies
+        run: npm ci --no-audit
+      - name: Make JSON
+        run: |
+          mkdir dist
+          node toJSON.mjs > dist/homeferences.json
+      - name: Publish build
+        run: |
+          echo "machine github.com login accesskey password ${GITHUB_TOKEN}" > ~/.netrc
+          git config --global user.email "actions@example.com"
+          git config --global user.name "GitHub Actions"
+          cd dist
+          git init
+          git add -A
+          git commit -m 'Update JSON'
+          git remote add origin https://github.com/${GITHUB_REPOSITORY}.git
+          git push -f origin HEAD:gh-pages

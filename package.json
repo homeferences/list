@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/homeferences/list#readme",
   "devDependencies": {
+    "date-fns": "^2.11.0",
     "husky": "^4.2.3",
     "lint-staged": "^10.0.8",
     "prettier": "^1.18.2"
