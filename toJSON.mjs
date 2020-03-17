@@ -61,7 +61,7 @@ const { homeferences } = tableMarkdown
               name,
               url,
               topic,
-              price: price.replace(/\\/g, ""),
+              price: price.length ? price.replace(/\\/g, "") : undefined,
               startDate,
               endDate
             }
