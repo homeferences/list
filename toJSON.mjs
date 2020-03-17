@@ -62,8 +62,8 @@ const { homeferences } = tableMarkdown
               url,
               topic,
               price: price.length ? price.replace(/\\/g, "") : undefined,
-              startDate,
-              endDate
+              startDay: startDate.toISOString().substr(0, 10),
+              endDay: endDate.toISOString().substr(0, 10)
             }
           ],
           baseYear,
