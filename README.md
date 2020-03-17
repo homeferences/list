@@ -6,6 +6,8 @@ _Homeferences_ are Conferences which happen virtually, so you can attend from yo
 
 ## List of Conferences that can be attended online
 
+> _Note:_ You can find a JSON version of this table [here](https://homeferences.github.io/list/homeferences.json).
+
 |                                                           Date | Name and URL                                                                                                             |  Price\* | Topic, Keywords                                                                                                                                                                                                                                                            |
 | -------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------ | -------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <time datetime="2020-03-01T00:00:00Z">**Mar&nbsp;2020**</time> |                                                                                                                          |          |                                                                                                                                                                                                                                                                            |
