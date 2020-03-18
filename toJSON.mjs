@@ -16,19 +16,32 @@ const tableMarkdown = markdown.substr(
 
 const padZero = s => `0${s}`.substr(-2);
 
-const socialImageFromUrl = async url => {
+const undefinedIfZeroLength = s => {
+  const t = s.trim();
+  return t.length === 0 ? undefined : t;
+};
+
+const metaFromUrl = async url => {
   try {
     const html = await fetch(url);
     const dom = new jsdom.JSDOM(await html.text());
-    return (
-      dom.window.document
-        .querySelector('meta[property="og:image"]')
-        .getAttribute("content") ||
-      dom.window.document
-        .querySelector('meta[property="twitter:image"]')
-        .getAttribute("content")
+
+    const ogImage = dom.window.document.querySelector(
+      'meta[property="og:image"]'
     );
-  } catch {
+    const twitterImage = dom.window.document.querySelector(
+      'meta[name="twitter:image"]'
+    );
+    const imageEl = twitterImage || ogImage;
+    const twitterSite = dom.window.document.querySelector(
+      'meta[name="twitter:site"]'
+    );
+
+    return {
+      image: imageEl ? imageEl.getAttribute("content") : undefined,
+      twitter: twitterSite ? twitterSite.getAttribute("content") : undefined
+    };
+  } catch (error) {
     return undefined;
   }
 };
@@ -80,8 +93,8 @@ const toJSON = async () => {
               {
                 name,
                 url,
-                topic,
-                price: price.length ? price.replace(/\\/g, "") : undefined,
+                topic: undefinedIfZeroLength(topic),
+                price: undefinedIfZeroLength(price.replace(/\\/g, "")),
                 startDay: startDate.toISOString().substr(0, 10),
                 endDay: endDate.toISOString().substr(0, 10)
               }
@@ -104,9 +117,10 @@ const toJSON = async () => {
 
   return Promise.all(
     homeferences.map(async homeference => {
+      const meta = await metaFromUrl(homeference.url);
       return {
         ...homeference,
-        image: await socialImageFromUrl(homeference.url)
+        ...meta
       };
     })
   );
