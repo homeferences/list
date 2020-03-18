@@ -36,10 +36,23 @@ const metaFromUrl = async url => {
     const twitterSite = dom.window.document.querySelector(
       'meta[name="twitter:site"]'
     );
+    const keywords = dom.window.document.querySelector('meta[name="keywords"]');
+    const description = dom.window.document.querySelector(
+      'meta[name="description"]'
+    );
 
     return {
       image: imageEl ? imageEl.getAttribute("content") : undefined,
-      twitter: twitterSite ? twitterSite.getAttribute("content") : undefined
+      twitter: twitterSite ? twitterSite.getAttribute("content") : undefined,
+      description: description
+        ? description.getAttribute("content")
+        : undefined,
+      keywords: keywords
+        ? keywords
+            .getAttribute("content")
+            .split(",")
+            .map(undefinedIfZeroLength)
+        : undefined
     };
   } catch (error) {
     return undefined;
