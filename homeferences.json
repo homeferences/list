@@ -1,0 +1,563 @@
+[
+  {
+    "name": "WSL Conf",
+    "url": "https://www.wslconf.dev/",
+    "topic": "Linux & Microsoft",
+    "startDay": "2020-03-10",
+    "endDay": "2020-03-11",
+    "image": "http://static1.squarespace.com/static/5d71635a6704a60001e178fe/t/5d84f53500bf5569e16a5435/1568994614971/Annotation+2019-09-20+114928.png?format=1500w",
+    "description": ""
+  },
+  {
+    "name": "Tensorflow Dev Summit",
+    "url": "https://www.youtube.com/playlist?list=PLQY2H8rRoyvzuJw20FG82Lgm2SZjTdIXU",
+    "topic": "Consists of technical talks directly from the TensorFlow product engineering teams, demo walkthroughs, and real time Q&A leveraging the live chat feature within the livestream.",
+    "startDay": "2020-03-11",
+    "endDay": "2020-03-11",
+    "image": "https://i.ytimg.com/vi/_lsjCH3fd00/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDZzdN1AjPhKjO1NUaa5Ic-C1oQ6w",
+    "twitter": "@YouTube",
+    "description": "Thanks for joining us in our first-ever virtual-only #TFDevSummit. If you missed out on any of the content, check out all the sessions in this playlist! The ..."
+  },
+  {
+    "name": "CSUN Assistive Technology (Deque Sessions)",
+    "url": "https://www.deque.com/csun-atc-2020/",
+    "topic": "Digital accessibility",
+    "startDay": "2020-03-11",
+    "endDay": "2020-03-13",
+    "image": "https://qkadxq0tba-flywheel.netdna-ssl.com/wp-content/uploads/2020/03/csun-crowd.jpg",
+    "twitter": "@dequesystems",
+    "description": "Access 19 different accessibility talks ranging from accessibility compliance to agile accessibilty. Register for free today."
+  },
+  {
+    "name": "Tech Field Day",
+    "url": "https://techfieldday.com/event/tfd21/",
+    "topic": "Tech Field Day is a series of invite-only technical meetings between delegates invited them from around the world and sponsoring enterprise IT companies that share their products and ideas through presentations, demos, roundtables, and more.",
+    "startDay": "2020-03-11",
+    "endDay": "2020-03-13",
+    "image": "https://techfieldday.com/wp-content/uploads/2012/10/TFD21-Group-Photo.jpg",
+    "twitter": "@TechFieldDay"
+  },
+  {
+    "name": "GDC 2020",
+    "url": "https://gdconf.com/",
+    "topic": "Game Development",
+    "startDay": "2020-03-16",
+    "endDay": "2020-03-20",
+    "image": "https://gdconf.com/sites/default/files/gdc-logo-open-graph.png",
+    "description": "GDC is the game industry's premier professional event, championing game developers and the advancement of their craft. March 16-20, 2020 | San Francisco",
+    "keywords": [
+      "GDC",
+      "Game Developers Conference",
+      "Game Development",
+      "VRDC",
+      "Virtual Reality Developers Conference",
+      "Game Events",
+      "Game Conference",
+      "Game Industry",
+      "Video Games",
+      "Game Design",
+      "Visual Arts",
+      "Game Programming",
+      "Game Production",
+      "Game Audio",
+      "GDC Expo",
+      "Game Developer Jobs",
+      "Game Careers",
+      "Independent Games",
+      "Game Industry",
+      "Mobile Games",
+      "Game Business",
+      "Independent Games Festival",
+      "IGF",
+      "Game AI",
+      "Game Narrative",
+      "Esports",
+      "Game Animation",
+      "Game Art Direction",
+      "Game Visual Effects",
+      "VFX",
+      "Game UX",
+      "XRDC"
+    ]
+  },
+  {
+    "name": "CyberLand 2020",
+    "url": "https://cyberjug.de/cyberland2020/",
+    "topic": "Java",
+    "startDay": "2020-03-17",
+    "endDay": "2020-03-17",
+    "image": "https://cyberjug.de/assets/images/cyberland_sterne.png",
+    "twitter": "cyberjug",
+    "description": " Eine Info-Seite für die Online-Konferenz zu Themen rund um Java ",
+    "keywords": [
+      "CyberJUG",
+      "Java User Group",
+      "digital",
+      "cyber",
+      "java"
+    ]
+  },
+  {
+    "name": "EmberConf",
+    "url": "https://emberconf.com/",
+    "topic": "Ember.js",
+    "startDay": "2020-03-17",
+    "endDay": "2020-03-18",
+    "description": ""
+  },
+  {
+    "name": "Domopalooza",
+    "url": "https://www.domo.com/domopalooza#FAQs",
+    "topic": "Domo Cloud product. Learn how great companies leverage data and intelligent apps to drive business forward at record speed.",
+    "startDay": "2020-03-18",
+    "endDay": "2020-03-18",
+    "image": "https://www.domo.com/assets/images/domo-logo-lrg.jpg",
+    "twitter": "@domotalk",
+    "description": "Join us live and on-demand as we bring Domopalooza to the world. Learn how Domo helps you go fast, go big, and go bold with keynote speakers, customer stories, and product announcements."
+  },
+  {
+    "name": "Spring Live",
+    "url": "https://connect.tanzu.vmware.com/Spring_Live_Q221.html",
+    "topic": "24-hour virtual conference featuring compelling talks about cloud native architecture. We’ll mix in a few interactive workshops, too! Who’s speaking at this thing? It’s an amazing crew, featuring great folks from VMware, Microsoft, Confluent, Okta, Google, and more.",
+    "startDay": "2020-03-19",
+    "endDay": "2020-03-19",
+    "image": "https://d1fto35gcfffzn.cloudfront.net/images/og/OG-spring-live.png"
+  },
+  {
+    "name": "AWSome Day Online Conference 2020",
+    "url": "https://pages.awscloud.com/EMEA-AWSome-Day-Online-Conference-2020.html",
+    "topic": "AWSome Day attendees will receive free, step-by-step introductions and training on core AWS services for compute, storage, database and networking. Plus, we’ll share best practices for architecting and cost optimization. AWS technical experts will provide detailed explanations of key service features, share real-world use cases, walk through technical demos, and be available to answer all your questions live.",
+    "price": "free",
+    "startDay": "2020-03-19",
+    "endDay": "2020-03-19",
+    "image": "https://a0.awsstatic.com/main/images/logos/aws_logo_smile_1200x630.png",
+    "description": ""
+  },
+  {
+    "name": "Corporate Learning Camp",
+    "url": "https://colearn.de/clc20digital/",
+    "topic": "Das Corporate Learning Camp ist eine nicht-kommerzielle Un-Konferenz im BarCamp-Format für alle Corporate Learning Professionals.",
+    "startDay": "2020-03-19",
+    "endDay": "2020-03-20",
+    "image": "https://colearn.de/wp-content/uploads/2017/02/CLC-Haupt-Logo_725x244-2.png"
+  },
+  {
+    "name": "Aginext 2020",
+    "url": "https://2020.aginext.io/",
+    "topic": "Agile conference for advanced agilists.",
+    "price": "£703.49",
+    "startDay": "2020-03-19",
+    "endDay": "2020-03-20",
+    "image": "https://2020.aginext.io/wp-content/uploads/2019/11/1910AGI-88-1-e1574684603836.jpg",
+    "description": "Aginext is a Two days conference in London dedicated to advanced agile and what comes next. Agile at scale, Culture, Leadership, Post-Agile and DevOps."
+  },
+  {
+    "name": "IAM Weekend 2020",
+    "url": "https://www.iam-internet.com/weekend",
+    "topic": "The annual gathering for creative thinkers & doers exploring the futures of the internet(s).",
+    "price": "€35",
+    "startDay": "2020-03-19",
+    "endDay": "2020-03-21",
+    "image": "http://static1.squarespace.com/static/5d7cc82914a07b453f2ca73f/t/5e70b42821402709564ff30e/1578874942420/IAMW20-header-test.jpg?format=1500w",
+    "description": ""
+  },
+  {
+    "name": "Oxidize 1K",
+    "url": "https://oxidizeconf.com/oxidize-1k/",
+    "topic": "Embedded Rust Development",
+    "price": "€10",
+    "startDay": "2020-03-20",
+    "endDay": "2020-03-20"
+  },
+  {
+    "name": "FrontConf",
+    "url": "https://frontconf.com/",
+    "topic": "Frontend, from JavaScript to UX",
+    "price": "€99/€29",
+    "startDay": "2020-03-21",
+    "endDay": "2020-03-21"
+  },
+  {
+    "name": "Process Mining Live",
+    "url": "https://www.processexcellencenetwork.com/online-events/process-mining-live",
+    "topic": "Celonis, Minit, and Signavio will be presenting on Process Intelligence. UIPath and EdgeVerve will both be presenting on RPA and Task Mining.",
+    "startDay": "2020-03-24",
+    "endDay": "2020-03-26",
+    "image": "https://plsadaptive.s3.amazonaws.com/eco/images/logos/FAVSorKNj2zdsS1g8zgoSWAKJva239BqTrAGedQF.png",
+    "description": "Leveraging improved process visibility to reduce cost, increase efficiency and remove bottlenecks. Process mining is a vital part of understanding what makes a business ‘tick’. Discovering the best processes that can be shared across an organization, or identifying the bottlenecks and inefficiencies that are hurting your bottom line are the first step in continuous improvement. Join our free, online event and learn how you can implement a process mining strategy and the tools you need to use to get the best results."
+  },
+  {
+    "name": "WFHConf",
+    "url": "https://sessionize.com/wfhconf/",
+    "topic": "20 minute talks spaced out every 30 minutes over 24 hours. Let's talk about the technology that we're working on. Let's talk about projects. Let's talk about best practices. Let's talk about lessons learned. Let's talk about working from home.",
+    "startDay": "2020-03-26",
+    "endDay": "2020-03-27",
+    "description": "Sessionize is the smart way to manage Call for Papers, Speakers and Agenda for your conference."
+  },
+  {
+    "name": "#PerfMatters Conference",
+    "url": "https://perfmattersconf.com/",
+    "topic": "Frontend Web Performance",
+    "price": "$579/*",
+    "startDay": "2020-03-30",
+    "endDay": "2020-04-01",
+    "image": "https://perfmattersconf.com/images/twitter_banner.jpg",
+    "twitter": "@perfmattersconf",
+    "description": "#PerfMatters - A Front-End Web Performance Conference in Redwood City, CA in April 2020."
+  },
+  {
+    "name": "Adobe Summit",
+    "url": "https://www.adobe.com/summit.html",
+    "topic": "The Digital Experience Conference",
+    "startDay": "2020-03-31",
+    "endDay": "2020-03-31",
+    "description": "The digital experience conference has gone digital. Live online March 31, 8:30–10:30am PDT.  Sign up for free access to the entire virtual event."
+  },
+  {
+    "name": "Virtual Rejekts 2020",
+    "url": "https://virtual.rejekts.io/",
+    "topic": "Ops, Kubernetes, Cloud",
+    "startDay": "2020-04-01",
+    "endDay": "2020-04-01",
+    "description": ""
+  },
+  {
+    "name": "Oktane",
+    "url": "https://www.oktane20.com/",
+    "topic": "Identity management, Okta products",
+    "startDay": "2020-04-01",
+    "endDay": "2020-04-02",
+    "image": "https://www.oktane20.com/static/oktanelive-og-daf933512b5363455d1dcb4b53c158fa.png?20200130",
+    "description": "Nothing is more important to us than the health and safety of the Okta community, which is why we’ve decided to host Oktane20 as a free, virtual conference this year. Join us online."
+  },
+  {
+    "name": "ng-conf: Hardwired",
+    "url": "https://www.ng-conf.org/",
+    "topic": "Angular",
+    "price": "$249",
+    "startDay": "2020-04-01",
+    "endDay": "2020-04-03"
+  },
+  {
+    "name": "DevConf Live 2020",
+    "url": "https://www.devconf.co.za/live",
+    "topic": "DevConf is a community-driven, professional software developer focused, one-day conference hosted annually.",
+    "price": "R2,615.00/*",
+    "startDay": "2020-04-02",
+    "endDay": "2020-04-02",
+    "image": "/public/images/hl3confirmed.jpg",
+    "twitter": "devconfza",
+    "description": "DevConf is a conference in South Africa for professional software developers focusing on the enterprise development scenarios.",
+    "keywords": [
+      "business",
+      "conference website",
+      "convene",
+      "event website",
+      "exhibition",
+      "keynote",
+      "meeting",
+      "schedule",
+      "seminar",
+      "speakers",
+      "venue",
+      "workshop"
+    ]
+  },
+  {
+    "name": "VirSecCon2020",
+    "url": "https://virseccon.com/",
+    "topic": "Security",
+    "startDay": "2020-04-04",
+    "endDay": "2020-04-04"
+  },
+  {
+    "name": "Google Cloud Next ’20",
+    "url": "https://cloud.withgoogle.com/next/sf",
+    "topic": "Google Cloud Platform (GCP)",
+    "startDay": "2020-04-06",
+    "endDay": "2020-04-08",
+    "image": "https://storage.googleapis.com/gweb-cloudnext2020.appspot.com/event-assets/sf/home/home-digital-connect.jpg",
+    "twitter": "@googlecloud",
+    "description": "Google Cloud Next ’20: Digital Connect. A global, digital-first, multi-day experience.",
+    "keywords": [
+      "Google Cloud Next ’20",
+      "Google Cloud conference",
+      "Next ’20",
+      "Cloud conferences ’20"
+    ]
+  },
+  {
+    "name": "I TAKE Unconference",
+    "url": "https://architecture.itakeunconf.com",
+    "topic": "(Modular) Architecture, Microservices, Cloud Computing, Design",
+    "price": "€83",
+    "startDay": "2020-04-07",
+    "endDay": "2020-04-07"
+  },
+  {
+    "name": "Live Coders Conf",
+    "url": "https://www.subscribepage.com/lcc2020",
+    "topic": "Writing code, teaching about technology, and promoting the technical community.",
+    "startDay": "2020-04-09",
+    "endDay": "2020-04-09",
+    "image": "https://bucket.mlcdn.com/a/1499/1499098/images/ccda234ece7a1b39039537b12811bc0538fcdb8c.png/49f2d4375ac40af0e756b82506db01fbc3ebe1db.png",
+    "description": "",
+    "keywords": [
+      "online conference",
+      "live coding",
+      "twitch"
+    ]
+  },
+  {
+    "name": "AllTheTalks.online",
+    "url": "https://www.allthetalks.online/",
+    "topic": "A collaborative effort of speakers, organizers and sponsors from around the world to provide a platform for the talks that have been cancelled due to the COVID-19 outbreak. Join us for 23.999 hours of talks, panels and activities while raising funds to assist select charities benefiting virus victims.",
+    "price": "free",
+    "startDay": "2020-04-15",
+    "endDay": "2020-04-15",
+    "description": "A virtual fundraising tech conference on all things DevOps, Development & Security.Providing a safe online platform for talks cancelled due to the COVID-19 outbreak"
+  },
+  {
+    "name": "SPECTRA 2020",
+    "url": "https://spectra.particle.io/",
+    "topic": "IoT, Hardware, LTE",
+    "startDay": "2020-04-28",
+    "endDay": "2020-04-29",
+    "twitter": "@particle",
+    "description": "The event for IoT innovators. Connect with leading IoT innovators who are building, deploying, and scaling connected products."
+  },
+  {
+    "name": "ServerlessDay Virtual",
+    "url": "https://twitter.com/ServerlessdaysV",
+    "topic": "Virtual ServerlessDays to be organized at each quarter over YouTube.",
+    "price": "free",
+    "startDay": "2020-04-29",
+    "endDay": "2020-04-29",
+    "description": "The latest Tweets from ServerlessDays Virtual (@ServerlessdaysV). Virtual ServerlessDays to be organized at each quarter over YouTube. Next event on April 29th. Global"
+  },
+  {
+    "name": "Global Virtual SUGCON 2020",
+    "url": "https://virtual.sugcon.events",
+    "topic": "CMS, Sitecore",
+    "startDay": "2020-04-30",
+    "endDay": "2020-04-30"
+  },
+  {
+    "name": "Angular Netherlands",
+    "url": "https://angularnl.com/",
+    "topic": "Angular development",
+    "startDay": "2020-05-01",
+    "endDay": "2020-05-01",
+    "image": "https://frontenddeveloperlove.com/image/website-social.jpeg",
+    "description": "Join fellow Angular Leaders for a showcase of tips, tricks and presentations that can inspire you to grow in your passion to be a better Angular Developer.",
+    "keywords": [
+      "javascript",
+      "development",
+      "frontend",
+      "conference",
+      "angular",
+      "angularjs",
+      "angular.js",
+      "angular2",
+      "angular2+",
+      "ng"
+    ]
+  },
+  {
+    "name": "MongoDB World 2020",
+    "url": "https://www.mongodb.com/world",
+    "startDay": "2020-05-04",
+    "endDay": "2020-05-05",
+    "image": "https://webassets.mongodb.com/_com_assets/cms/live-meta-3fxmy2td4g.png",
+    "description": "Join us for MongoDB.live from wherever you are! Connect with cutting-edge content, streamed keynotes, breakout sessions, hands-on labs, digital “ask the experts” sessions, and more!"
+  },
+  {
+    "name": "IBM Think Digital 2020",
+    "url": "https://www.ibm.com/events/think/",
+    "topic": "Learn about the latest advancements in open technologies from hybrid multicloud to data and AI.",
+    "startDay": "2020-05-05",
+    "endDay": "2020-05-07",
+    "image": "https://www.ibm.com/events/shared/img/think2020/think-og2.jpg",
+    "twitter": "https://www.ibm.com/events/think/",
+    "description": "The digital-first IBM business and technology event will take place May 5–7, 2020. Learn about the latest advancements in open technologies from hybrid multicloud to data and AI and interact with luminaries who are using them to transform our lives.",
+    "keywords": [
+      "IBM Think 2020",
+      "IBM technology conference"
+    ]
+  },
+  {
+    "name": "GitHub Satellite 2020",
+    "url": "https://githubsatellite.com/",
+    "topic": "Join us for a virtual conference featuring GitHub product experts, software leaders, and enterprise teams who are building the world’s most important technologies.",
+    "startDay": "2020-05-06",
+    "endDay": "2020-05-06",
+    "image": "https://githubsatellite.com/assets/img/social-card.png",
+    "twitter": "@github",
+    "description": "Join us for a virtual conference featuring GitHub product experts, software leaders, and enterprise teams who are building the world’s most important technologies."
+  },
+  {
+    "name": "OpenTalk 2020",
+    "url": "https://www.talkdesk.com/opentalk",
+    "topic": "The premier event for CX innovators of all industries, with 60+ sessions, 100+ speakers & thousands of attendees.",
+    "startDay": "2020-05-06",
+    "endDay": "2020-05-06",
+    "image": "https://infra-cloudfront-talkdeskcom.talkdesk.com/talkdesk_com/2020/03/16104544/opentalk-2020-cx-virtual-event.png",
+    "twitter": "@talkdesk",
+    "description": "Why attend? Opentalk 2020 it's the premier virtual event for CX innovators of all industries. Gain actionable insight from the world’s leading CX experts and visionaries."
+  },
+  {
+    "name": "Tech Inclusion",
+    "url": "https://techinclusion.co/summit/",
+    "topic": "a fully virtual summit experience as we discuss Leadership & Professional Growth, Allyship & Culture, Emerging Industry Trends, The Future of Work, and more.",
+    "startDay": "2020-05-12",
+    "endDay": "2020-05-12",
+    "image": "https://techinclusion.co/wp-content/uploads/2020/03/tech-inclusion-global-summit-image-share.jpg",
+    "twitter": "@techinclusionco",
+    "description": "Exploring Innovative Solutions To Tech Diversity and Inclusion"
+  },
+  {
+    "name": "Redis Conf",
+    "url": "https://events.redislabs.com/redisconf20/",
+    "topic": "RedisConf is a technical conference where software developers and architects can learn database best practices, trade pro-level tips and tricks,",
+    "startDay": "2020-05-12",
+    "endDay": "2020-05-12",
+    "image": "https://events.redislabs.com/wp-content/uploads/2020/02/redisconf2020-hero-m-2.jpg",
+    "description": "Join us online at RedisConf 2020 Takeaway to Rediscover Redis. This virtual edition of RedisConf is the perfect opportunity to dive into the latest innovations and trends in data platforms, share your ideas, learn from valuable experiences of Redis users across the globe, and get training."
+  },
+  {
+    "name": "Agile Manchester 2020",
+    "url": "https://2020.agilemanchester.net/",
+    "topic": "North of England’s practical, hands-on Agile software development conference.",
+    "startDay": "2020-05-15",
+    "endDay": "2020-05-15",
+    "image": "https://2020.agilemanchester.net/sites/2020.agilemanchester.net/files/meta-images/Home_Facebook.jpg",
+    "twitter": "@agilemanc"
+  },
+  {
+    "name": "DrupalCon",
+    "url": "https://events.drupal.org/minneapolis2020",
+    "topic": "Drupal",
+    "startDay": "2020-05-18",
+    "endDay": "2020-05-22",
+    "image": "https://events.drupal.org/sites/all/themes/da_events/minneapolis2020/dist/images/og.png"
+  },
+  {
+    "name": "Microsoft Build",
+    "url": "https://www.microsoft.com/en-us/build",
+    "topic": "Microsoft products and solutions",
+    "startDay": "2020-05-19",
+    "endDay": "2020-05-20",
+    "image": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4rIJK",
+    "twitter": "Microsoft Build"
+  },
+  {
+    "name": "Let's Sketch Tech!",
+    "url": "https://twitter.com/marlenac/status/1238885650314616832",
+    "topic": "Sketchnotes",
+    "startDay": "2020-05-30",
+    "endDay": "2020-05-30",
+    "image": "https://pbs.twimg.com/profile_images/1041447198146277376/DeZzNXq7_400x400.jpg"
+  },
+  {
+    "name": "Bootstrap West",
+    "url": "https://www.bootstrapwest.ca/",
+    "topic": "independent software developers, makers and solopreneurs",
+    "startDay": "2020-05-30",
+    "endDay": "2020-05-30",
+    "image": "https://www.bootstrapwest.ca/assets/images/card.jpg?v96263695224851",
+    "description": "A micro-conference for bootstrappers, indie makers and software entrepreneurs in Canada, USA, and and around the globe!"
+  },
+  {
+    "name": "WWDC20",
+    "url": "https://developer.apple.com/wwdc20/",
+    "topic": "Apple, iOS, Mobile Development",
+    "startDay": "2020-05-01",
+    "endDay": "2020-05-01",
+    "image": "https://developer.apple.com/news/images/og/wwdc20-og-twitter.png"
+  },
+  {
+    "name": "Atlassian Remote Summit",
+    "url": "https://atlassian.swoogo.com/summit20_live_stream",
+    "topic": "Atlassian products (i.e. Jira, Confluence, etc)",
+    "startDay": "2020-05-01",
+    "endDay": "2020-05-02"
+  },
+  {
+    "name": "SRECon_Americas_West",
+    "url": "https://www.usenix.org/conference/srecon20americaswest",
+    "topic": "Site Reliability Engineering",
+    "startDay": "2020-05-02",
+    "endDay": "2020-05-04",
+    "image": "https://www.usenix.org/sites/default/files/srecon20am-west_social_1200x630.png"
+  },
+  {
+    "name": "You Got This 2020: From Home",
+    "url": "https://home.yougotthis.io",
+    "topic": "A free core skills conference",
+    "startDay": "2020-05-06",
+    "endDay": "2020-05-06",
+    "image": "https://home.yougotthis.io/assets/og.png",
+    "description": "A free online conference on the non-technical aspects of a happy, healthy work life."
+  },
+  {
+    "name": "Lead Developer NYC",
+    "url": "https://newyork2020.theleaddeveloper.com/",
+    "topic": "For engineering leaders to learn to build high performing teams",
+    "startDay": "2020-05-07",
+    "endDay": "2020-05-08",
+    "image": "http://newyork2020.theleaddeveloper.com/perch/resources/social-card-1-w1200.png",
+    "twitter": "@TheLeadDev",
+    "description": "The conference for technical leaders – August 11 & 12, 2020"
+  },
+  {
+    "name": "Emerging Technologies for the Enterprise",
+    "url": "https://2020.phillyemergingtech.com/",
+    "topic": "Software development topic",
+    "startDay": "2020-05-14",
+    "endDay": "2020-05-15",
+    "image": "https://s3.amazonaws.com/heysummit-production/media/uploads/events/emerging-technologies-for-the-enterprise-2020/promo_image_primary.jpg?updated=1584563455.749908",
+    "description": "The Mid-Atlantic's Premier Developer's Conference"
+  },
+  {
+    "name": "FailoverConf",
+    "url": "https://failover-conf.heysummit.com/",
+    "topic": "For accepted conference talks that were cancelled - primarily focused on resiliency",
+    "startDay": "2020-05-21",
+    "endDay": "2020-05-21",
+    "image": "https://s3.amazonaws.com/heysummit-production/media/uploads/events/failover-conf/promo_image_primary.jpg?updated=1584570750.89557",
+    "description": "A virtual event on reliability because you always need a backup plan. #FailoverConf"
+  },
+  {
+    "name": "Collision Conf",
+    "url": "https://collisionconf.com/",
+    "topic": "Collision from Home brings together the people and companies redefining the global tech industry.",
+    "startDay": "2020-05-22",
+    "endDay": "2020-05-25",
+    "image": "https://collisionconf.com/wp-content/uploads/2019/05/47111431184_2f03af3a53_o-1.jpg",
+    "twitter": "@collisionHQ",
+    "description": "Collision from Home brings together the people and companies redefining the global tech industry. Think of it like working from home: participants will join the event online from wherever they are in the world."
+  },
+  {
+    "name": "Red Hat Summit",
+    "url": "https://www.redhat.com/en/blog/moving-red-hat-summit-2020-virtual-experience?sc_cid=7013a000002CrnhAAC",
+    "topic": "Open source & enterprise technology",
+    "startDay": "2020-05-28",
+    "endDay": "2020-05-29",
+    "image": "https://www.redhat.com/profiles/rh/themes/redhatdotcom/img/red-hat-social-share.jpg",
+    "description": "Each year, Red Hat Summit is one of our favorite events of the year because it brings together our customers, partners, community members and Red Hatters to talk about the open source innovations and best practices that are enabling the future of enterprise technology."
+  },
+  {
+    "name": "Dev Ops Enterprise Summit",
+    "url": "https://events.itrevolution.com/us/register/",
+    "topic": "DevOps",
+    "startDay": "2020-09-22",
+    "endDay": "2020-09-24"
+  },
+  {
+    "name": "Large Installation Systems Administration 20",
+    "url": "https://www.usenix.org/conference/lisa20",
+    "topic": "Systems Administration",
+    "startDay": "2020-12-07",
+    "endDay": "2020-12-09"
+  }
+]
