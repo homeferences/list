@@ -1,0 +1,29 @@
+name: Prettify sources
+
+on: push
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+      - uses: actions/setup-node@v1
+        with:
+          node-version: "12.x"
+      - name: Install dependencies
+        run: npm ci --no-audit
+      - name: Prettify
+        run: npx prettier --write *.md
+      - name: Commit changes
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "machine github.com login authtoken password ${GITHUB_TOKEN}" > ~/.netrc
+          git status
+          git config user.email "actions@example.com"
+          git config user.name "GitHub Actions"
+          git add *.md
+          git commit -m "style: prettify"
+          git push origin HEAD:`echo $GITHUB_REF | cut -d '/' -f 3`
