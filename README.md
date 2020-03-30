@@ -87,6 +87,7 @@ _Homeferences_ are Conferences which happen virtually, so you can attend from yo
 | 1–3 | [VR/AR Global Summit](https://www.vrarglobalsummit.com/) | free | The VR/AR Global Summit Online is an online conference, brought to you by the VR/AR Association, connecting the best virtual reality and augmented reality solution providers with enterprise and media entertainment companies. |
 | 2–4 | [SRECon_Americas_West](https://www.usenix.org/conference/srecon20americaswest) | | Site Reliability Engineering |
 | 6 | [You Got This 2020: From Home](https://home.yougotthis.io) | | A free core skills conference |
+| 6 | [EnthusiastiCon](https://www.enthusiasticon.de/) | | EnthusiastiCon is a conference for the programming community. We will talk about what excites us the most about programming — the strange, the wonderful, and the clever solutions to unusual problems. |
 | 7–8 | [Lead Developer NYC](https://newyork2020.theleaddeveloper.com/) | | For engineering leaders to learn to build high performing teams |
 | 14–15 | [Emerging Technologies for the Enterprise](https://2020.phillyemergingtech.com/) | | Software development topic |
 | 21 | [FailoverConf](https://failover-conf.heysummit.com/) | | For accepted conference talks that were cancelled - primarily focused on resiliency |
