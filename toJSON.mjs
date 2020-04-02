@@ -48,10 +48,7 @@ const metaFromUrl = async url => {
         ? description.getAttribute("content")
         : undefined,
       keywords: keywords
-        ? keywords
-            .getAttribute("content")
-            .split(",")
-            .map(undefinedIfZeroLength)
+        ? keywords.getAttribute("content").split(",").map(undefinedIfZeroLength)
         : undefined
     };
   } catch (error) {
@@ -72,7 +69,7 @@ const toJSON = async () => {
     .reduce(
       ({ homeferences, baseYear, baseMonth }, line) => {
         const [date, nameAndURL, price, topic] = line;
-        const dateTime = /<time datetime="(?:(2[0-9]{3})-([0-9]{2})-01T00:00:00Z)">/.exec(
+        const dateTime = /<time id="[^"]+" datetime="(?:(2[0-9]{3})-([0-9]{2})-01T00:00:00Z)">/.exec(
           date
         );
         const dayRange = /^[0-9]{1,2}(?:–([0-9]{1,2}))?$/.exec(date.trim());
