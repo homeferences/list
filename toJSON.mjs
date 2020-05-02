@@ -75,7 +75,7 @@ const toJSON = async () => {
         const dateTime = /<time datetime="(?:(2[0-9]{3})-([0-9]{2})-01T00:00:00Z)">/.exec(
           date
         );
-        const dayRange = /^[0-9]{1,2}(?:–([0-9]{1,2}))?$/.exec(date.trim());
+        const dayRange = /^[0-9]{1,2}(?:[–-]([0-9]{1,2}))?$/.exec(date.trim());
         if (dateTime) {
           baseYear = parseInt(dateTime[1]);
           baseMonth = parseInt(dateTime[2]);
