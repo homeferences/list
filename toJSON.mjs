@@ -49,9 +49,9 @@ const metaFromUrl = async url => {
         : undefined,
       keywords: keywords
         ? keywords
-            .getAttribute("content")
-            .split(",")
-            .map(undefinedIfZeroLength)
+          .getAttribute("content")
+          .split(",")
+          .map(undefinedIfZeroLength)
         : undefined
     };
   } catch (error) {
@@ -90,10 +90,10 @@ const toJSON = async () => {
             dateFns.addDays(
               endDay
                 ? new Date(
-                    `${baseYear}-${padZero(
-                      baseMonth + (endDay && endDay < startDay ? 1 : 0)
-                    )}-${padZero(endDay)}T00:00:00Z` // FIXME: Rollover to January
-                  )
+                  `${baseYear}-${padZero(
+                    baseMonth + (endDay && endDay < startDay ? 1 : 0)
+                  )}-${padZero(endDay)}T00:00:00Z` // FIXME: Rollover to January
+                )
                 : startDate,
               1
             ),
