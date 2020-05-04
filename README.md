@@ -1,10 +1,10 @@
 # List of Homeferences 🏠💻🤔💡
 
-_Homeferences_ are Conferences which happen virtually, so you can attend from your home.
+A _Homeference_ (`\ ˈhōm-f(ə-)rən(t)s \`) is a conference which happens virtually, so you can attend from your home.
 
 **Pull-requests are welcome!**
 
-## List of Conferences that can be attended online
+## List of conferences that can be attended online
 
 > _Note:_ You can find a JSON version of this table [here](https://homeferences.github.io/list/homeferences.json).
 > We also have a web-version of this list on [homeferences.netlify.com](https://homeferences.netlify.com/).
