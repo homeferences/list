@@ -19,12 +19,12 @@
   },
   "homepage": "https://github.com/homeferences/list#readme",
   "devDependencies": {
-    "date-fns": "^2.11.0",
-    "husky": "^4.2.3",
-    "jsdom": "^16.2.1",
-    "lint-staged": "^10.0.8",
+    "date-fns": "^2.14.0",
+    "husky": "^4.2.5",
+    "jsdom": "^16.2.2",
+    "lint-staged": "^10.2.7",
     "node-fetch": "^2.6.0",
-    "prettier": "^2.0.1"
+    "prettier": "^2.0.5"
   },
   "husky": {
     "hooks": {
