@@ -10,7 +10,7 @@ A _Homeference_ (`\ ˈhōm-f(ə-)rən(t)s \`) is a conference which happens virt
 
 Please consider spending some of your time you were going to invest into attending a conference for learning more about [antiracism](https://www.nytimes.com/2019/05/29/books/review/antiracist-reading-list-ibram-x-kendi.html). The video about the Blue Eyes/Brown Eyes experiment from Jane Elliot is a highly [recommended watch to get started](https://www.youtube.com/watch?v=1mcCLm_LwpE).
 
-If you can, please consider donation to antiracism organizations. You can also directly support black open-source developers through the [GitHub sponsors](https://github.com/sponsors) program, [this thread](https://twitter.com/IfiokJr/status/1269314007854460929) contains mentions of developers who identify as black.
+If you can, please consider donation to antiracism organizations. You can also directly support Black open-source developers through the [GitHub sponsors](https://github.com/sponsors) program, [this thread](https://twitter.com/IfiokJr/status/1269314007854460929) contains mentions of developers who identify as black.
 
 ## List of conferences that can be attended online
 
