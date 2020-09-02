@@ -17,6 +17,9 @@ const tableMarkdown = markdown.substr(
 const padZero = s => `0${s}`.substr(-2);
 
 const undefinedIfZeroLength = s => {
+  if (s === undefined) {
+    return undefined
+  }
   const t = s.trim();
   return t.length === 0 ? undefined : t;
 };
