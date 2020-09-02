@@ -34,7 +34,7 @@ jobs:
       - name: Make JSON
         run: |
           mkdir dist
-          node toJSON.mjs > dist/homeferences.json
+          node --unhandled-rejections=strict toJSON.mjs > dist/homeferences.json
       - name: Publish build
         run: |
           echo "machine github.com login accesskey password ${GITHUB_TOKEN}" > ~/.netrc
